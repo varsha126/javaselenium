@@ -6,6 +6,7 @@ public class Qs1 {
 		
 		System.out.println("varsha");
 		
+		
 	}
 
 }
