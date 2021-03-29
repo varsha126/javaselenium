@@ -5,7 +5,8 @@ public class Qs1 {
 		
 		
 		System.out.println("varsha");
-		
+		System.out.println("Cse");
+		System.out.println("Greenss");
 		
 	}
 
